@@ -1,0 +1,10 @@
+[
+  {
+    "package": "codified",
+    "oncran": true
+  },
+  {
+    "package": "REDCapR",
+    "oncran": true
+  }
+]

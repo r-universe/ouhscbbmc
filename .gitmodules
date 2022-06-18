@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "codified"]
+	path = codified
+	url = https://github.com/ouhscbbmc/codified
+	shallow = true
+	registered = true
+[submodule "REDCapR"]
+	path = REDCapR
+	url = https://github.com/ouhscbbmc/redcapr
+	shallow = true
+	registered = true
