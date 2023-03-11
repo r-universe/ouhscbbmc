@@ -6,5 +6,9 @@
   {
     "package": "REDCapR",
     "oncran": true
+  },
+  {
+    "package": "Wats",
+    "oncran": true
   }
 ]

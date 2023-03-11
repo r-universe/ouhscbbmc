@@ -13,3 +13,8 @@
 	url = https://github.com/ouhscbbmc/redcapr
 	shallow = true
 	registered = true
+[submodule "Wats"]
+	path = Wats
+	url = https://github.com/ouhscbbmc/wats
+	shallow = true
+	registered = true
