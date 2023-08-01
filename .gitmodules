@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "codified"]
-	path = codified
-	url = https://github.com/ouhscbbmc/codified
 [submodule "REDCapR"]
 	path = REDCapR
 	url = https://github.com/ouhscbbmc/redcapr
 [submodule "Wats"]
 	path = Wats
 	url = https://github.com/ouhscbbmc/wats
+[submodule "codified"]
+	path = codified
+	url = https://github.com/ouhscbbmc/codified
